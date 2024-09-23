@@ -6,7 +6,7 @@ pygame.init()
 
 # Define key-sound mappings
 key_sound_map = {
-    pygame.K_a: 'sound_a.wav',  # Map 'A' key to 'sound_a.wav'
+    pygame.K_a: 'assets/C4.mp3',  # Map 'A' key to 'sound_a.wav'
 }
 
 # Load all sounds
